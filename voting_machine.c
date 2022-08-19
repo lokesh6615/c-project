@@ -2,10 +2,10 @@
 
 #define CANDIDATE_COUNT
 
-#define CANDIDATE1 "David Hull"
-#define CANDIDATE2 "Kristin Canella"
-#define CANDIDATE3 "Jim Brar"
-#define CANDIDATE4 "Donald Truimph"
+#define CANDIDATE1 "TRS"
+#define CANDIDATE2 "BJP"
+#define CANDIDATE3 "YSRCP"
+#define CANDIDATE4 "others"
 
 int votesCount1=0, votesCount2=0, votesCount3=0, votesCount4=0, spoiledtvotes=0;
 
@@ -66,7 +66,7 @@ int i;
 int choice;
 
 do{
-printf("\n\n ###### Welcome to Election/Voting 2019 #####");
+printf("\n\n ###### Welcome to Election/Voting 2022 #####");
 printf("\n\n 1. Cast the Vote");
 printf("\n 2. Find Vote Count");
 printf("\n 3. Find leading Candidate");
